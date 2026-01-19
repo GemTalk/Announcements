@@ -1,0 +1,16 @@
+{
+	"category" : "Announcements-Core-GemStone",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "",
+	"instvars" : [
+		"receiver",
+		"selector",
+		"arguments" ],
+	"name" : "MessageSend",
+	"pools" : [
+		 ],
+	"super" : "Object",
+	"type" : "normal" }

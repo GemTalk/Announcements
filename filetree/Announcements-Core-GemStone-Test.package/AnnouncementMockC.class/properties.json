@@ -1,0 +1,14 @@
+{
+	"category" : "Announcements-Core-GemStone-Test",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "",
+	"instvars" : [
+		"announcingCounter" ],
+	"name" : "AnnouncementMockC",
+	"pools" : [
+		 ],
+	"super" : "AnnouncementMockB",
+	"type" : "normal" }

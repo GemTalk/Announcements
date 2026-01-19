@@ -1,0 +1,15 @@
+{
+	"category" : "Announcements-Core-GemStone",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "",
+	"instvars" : [
+		"registry",
+		"deliveryErrorHandler" ],
+	"name" : "Announcer",
+	"pools" : [
+		 ],
+	"super" : "Object",
+	"type" : "normal" }

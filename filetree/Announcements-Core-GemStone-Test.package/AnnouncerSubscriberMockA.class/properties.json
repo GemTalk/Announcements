@@ -1,0 +1,14 @@
+{
+	"category" : "Announcements-Core-GemStone-Test",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "",
+	"instvars" : [
+		"announcer" ],
+	"name" : "AnnouncerSubscriberMockA",
+	"pools" : [
+		 ],
+	"super" : "Object",
+	"type" : "normal" }

@@ -1,0 +1,14 @@
+{
+	"category" : "BaselineOfAnnouncements",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "",
+	"instvars" : [
+		 ],
+	"name" : "BaselineOfAnnouncements",
+	"pools" : [
+		 ],
+	"super" : "BaselineOf",
+	"type" : "normal" }

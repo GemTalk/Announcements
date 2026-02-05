@@ -1,0 +1,14 @@
+{
+	"category" : "Announcements-Core-GemStone",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "",
+	"instvars" : [
+		"announcer" ],
+	"name" : "WeakSubscriptionBuilder",
+	"pools" : [
+		 ],
+	"super" : "Object",
+	"type" : "normal" }

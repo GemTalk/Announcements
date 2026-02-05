@@ -1,0 +1,15 @@
+{
+	"category" : "Announcements-Core-GemStone",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "",
+	"instvars" : [
+		"subscriptions",
+		"monitor" ],
+	"name" : "SubscriptionRegistry",
+	"pools" : [
+		 ],
+	"super" : "Object",
+	"type" : "normal" }
